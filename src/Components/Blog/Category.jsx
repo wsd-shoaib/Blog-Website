@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Blog.css";
 const Category = ({ onCategory, activeCategory }) => {
   const category = ["lover", "friends"];
   return (

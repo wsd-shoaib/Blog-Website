@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import "./Blog.css";
 const Pageination = ({ onPageChange, currentpage, blog, pageSize }) => {
   const totalepages = Math.ceil(blog.length / pageSize);
   const renderPaginationLink = () => {

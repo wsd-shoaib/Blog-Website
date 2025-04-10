@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Data from "./Data";
 import Pagination from "./Pageination.jsx";
 import Category from "./Category.jsx";
-
+import "./Blog.css";
 const AllBlog = () => {
   const [blog, setBlog] = useState([]);
   const [currentpage, setCurrentpage] = useState(1);
@@ -31,7 +31,7 @@ const AllBlog = () => {
     setSelectCategory(category);
     setCurrentpage(1);
     setActiveCategory(category);
-  }; 
+  };
 
   return (
     <div className="Allblog">

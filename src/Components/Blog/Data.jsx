@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import "./Blog.css";
 const Data = ({ blog, currentpage, selectCategory, pageSize }) => {
   const filterBlog = blog
     .filter((blog) => !selectCategory || blog.category === selectCategory)
