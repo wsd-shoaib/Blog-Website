@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "category": "mySelf",
+    "imgUrl": "../../src/assets/shoaib.png",
+    "name": "Shoaib Ahmed",
+    "title": "This is me.",
+    "description": "I am Md Abdul Mukit Shoaib, I want to be an honest man. I have a big dream",
+    "place": "altaf master ghat"
+  },
+  {
+    "id": 2,
+    "category": "lover",
+    "imgUrl": "../../src/assets/wife.jpg",
+    "name": "Sanjida Eti",
+    "title": "When my wife was single,",
+    "description": "She is Sanjida Akter Eti, She is my life partner. she is very close. ",
+    "place": "at his home"
+  },
+  {
+    "id": 3,
+    "category": "friends",
+    "imgUrl": "../../src/assets/friends.jpg",
+    "name": "me & friend",
+    "title": "He is my childhood friend.",
+    "description": "he is parvez with me, we are very childhood friends. he do job a hospitle ",
+    "place": "at his office"
+  },
+  {
+    "id": 4,
+    "category": "friends",
+    "imgUrl": "../../src/assets/best-friend.jpg",
+    "name": "me & Best-Friend",
+    "title": "he is my best friend and he is very helpful",
+    "place": "at Lakshmipur"
+  },
+  {
+    "id": 5,
+    "category": "lover",
+    "imgUrl": "../../src/assets/park.jpg",
+    "name": "me & Eti",
+    "title": "When she was my girlfriend.",
+    "place": "at park"
+  },
+  {
+    "id": 6,
+    "category": "lover",
+    "imgUrl": "../../src/assets/girl-friends.jpg",
+    "name": "me & Eti",
+    "title": "I went to his house to take a look at him before the wedding. That day, he called me to accept our relationship with his family.",
+    "place": "at tomchar"
+  },
+  {
+    "id": 7,
+    "category": "lover",
+    "imgUrl": "../../src/assets/resturant.jpg",
+    "name": "me & Eti",
+    "title": "Sometimes I would meet my girlfriend Eti at a restaurant, and she would come home without telling anyone, wearing a college frock.",
+    "place": "at Lakshmipur"
+  },
+  {
+    "id": 8,
+    "category": "lover",
+    "imgUrl": "../../src/assets/fuska.jpg",
+    "name": "me & Eti",
+    "title": "I'm coming to eat fuchka with my girlfriend.",
+    "place": "at Lakshmipur"
+  },
+  {
+    "id": 9,
+    "category": "friends",
+    "imgUrl": "../../src/assets/scout.jpg",
+    "name": "Shoaib Ahmed",
+    "title": "When I was in scouts",
+    "place": "at Lakshmipur"
+  },
+  {
+    "id": 10,
+    "category": "lover",
+    "imgUrl": "../../src/assets/marrege.jpg",
+    "name": "me & Eti",
+    "title": "When no one at home accepted our relationship, we ran away and got married.",
+    "place": "Kazi office"
+  },
+  {
+    "id": 11,
+    "category": "lover",
+    "imgUrl": "../../src/assets/alone.jpg",
+    "name": "me & Eti",
+    "title": "I married him and moved away from my family, and that night I sat down to eat at a restaurant.",
+    "place": "Hotel"
+  },
+  {
+    "id": 12,
+    "category": "lover",
+    "imgUrl": "../../src/assets/after-merried.jpg",
+    "name": "me & Eti",
+    "title": "After marriage, the two of us lived like this, we didn't have much money at the time.",
+    "place": "On our roof "
+  },
+  {
+    "id": 13,
+    "category": "lover",
+    "imgUrl": "../../src/assets/funny.jpg",
+    "name": "me & Eti",
+    "title": "This is how we spend our days, fighting over the two of us.",
+    "place": "On our roof "
+  }
+]

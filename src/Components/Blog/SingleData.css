@@ -1,0 +1,14 @@
+.SingleData {
+  background-color: darkcyan;
+  margin: 0 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.SingleData img {
+  width: 100%;
+  height: 280px;
+}
+.CardData {
+  width: 500px;
+}
